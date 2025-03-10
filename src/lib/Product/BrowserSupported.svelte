@@ -5,8 +5,8 @@
           <h2 class="text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">Supported by all the major browsers</h2>
           <p class="mt-6 text-lg/8 text-gray-600">JupiterMeet is supported by all the major browsers, for both desktop and mobile phones.</p>
           <div class="mt-8 flex items-center gap-x-6">
-            <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Buy Now</a>
-            <a href="#" class="text-sm font-semibold text-gray-900">Try Demo <span aria-hidden="true">&rarr;</span></a>
+            <a href="/" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Buy Now</a>
+            <a href="/" class="text-sm font-semibold text-gray-900">Try Demo <span aria-hidden="true">&rarr;</span></a>
           </div>
         </div>
         <div class="mx-auto grid w-full max-w-xl grid-cols-2 items-center gap-y-12 sm:gap-y-14 lg:mx-0 lg:max-w-none lg:pl-8">

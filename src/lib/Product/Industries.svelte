@@ -11,7 +11,7 @@
           <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
   
           <h3 class="mt-3 text-lg/6 font-semibold text-white">
-            <a href="#">
+            <a href="/">
               <span class="absolute inset-0"></span>
               Healthcare
             </a>
@@ -25,7 +25,7 @@
             <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
     
             <h3 class="mt-3 text-lg/6 font-semibold text-white">
-              <a href="#">
+              <a href="/">
                 <span class="absolute inset-0"></span>
                 Education
               </a>
@@ -39,7 +39,7 @@
             <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-gray-900/10 ring-inset"></div>
     
             <h3 class="mt-3 text-lg/6 font-semibold text-white">
-              <a href="#">
+              <a href="/">
                 <span class="absolute inset-0"></span>
                 Business Meetings
               </a>
