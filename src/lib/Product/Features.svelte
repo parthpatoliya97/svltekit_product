@@ -1,5 +1,5 @@
 <script>
-  export let features, primaryColor;
+  export let features,primaryColor;
 </script>
 
 <div class="bg-white py-6 sm:py-8">

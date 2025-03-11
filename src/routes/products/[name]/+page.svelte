@@ -18,6 +18,7 @@
 	import BrowserSupported from "$lib/Product/BrowserSupported.svelte";
 	import Compliance from "$lib/Product/Compliance.svelte";
 	import Industries from "$lib/Product/Industries.svelte";
+	import Progressbar from "$lib/Product/Progressbar.svelte";
 
     export let data;
     const {meta, hero, logos, advantages, features, howItWorks, gallery, pricing, benefits, faqs, testimonials, ctas, blogs, makeMoney} = data;
@@ -29,7 +30,7 @@
 <Logo {logos} />
 <Advantages {advantages} {primaryColor} />
 <Stats />
-<Features {features} {primaryColor} />
+<Features {features} {primaryColor}/>
 <BrowserSupported />
 <HowItWorks {howItWorks} />
 <Compliance />
@@ -44,3 +45,4 @@
 <FAQs {faqs} />
 <CTA {ctas} />
 <Blogs {blogs} />
+<Progressbar/>
